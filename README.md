@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter | Dart | Django**
 
-- 👨‍💻 All of my projects are available at [https://mrsquareportfolio.netlify.app/](https://mrsquareportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohdrazashaikh.netlify.app/](https://mohdrazashaikh.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@mohd.raza_shaikh](https://medium.com/@mohd.raza_shaikh)
 
