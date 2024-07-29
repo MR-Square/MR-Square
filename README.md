@@ -5,19 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-square&label=Profile%20views&color=0e75b6&style=flat" alt="mr-square" /> </p>
 
 
-- 🔭 I’m currently working on **Sign Talk | An smart assistant**
+- 🔭 I’m currently working on **eSchool | A Flutter App**
 
-- 🌱 I’m currently learning **Flutter | Dart | Django**
+- 🌱 I’m currently learning **Flutter | Dart | WebAPI**
 
 - 👨‍💻 All of my projects are available at [https://mohdraza.netlify.app/](https://mohdraza.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@mohd.raza_shaikh](https://medium.com/@mohd.raza_shaikh)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mohdraza7058@gmail.com**
 
-- ⚡ Fun fact **Love to visit nature related places. Workout lover**
+- ⚡ Fun fact **Love to visit nature-related places. Nephophile, Thalassophile, and Selenophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
