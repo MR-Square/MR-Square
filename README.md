@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohdraza.netlify.app/](https://mohdraza.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@mohd.raza_shaikh](https://medium.com/@mohd.raza_shaikh)
+- 📝 I regularly write articles on [https://medium.com/@mohd.raza_shaikh](https://medium.com/@_mohd.raza)
 
 - 💬 Ask me about **Flutter**
 
